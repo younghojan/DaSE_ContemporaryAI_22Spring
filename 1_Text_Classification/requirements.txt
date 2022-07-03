@@ -1,0 +1,7 @@
+datasets==1.18.3
+pandas~=1.4.0
+transformers==4.16.2
+torch==1.10.2
+
+numpy~=1.22.1
+scikit-learn~=1.0.2
